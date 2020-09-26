@@ -1,2 +1,2 @@
-# netflix data
+# Netflix data survery
 This is just for learning pandas library. I have imported csv file of netflix stock. I have done simple analysis using resample method..
