@@ -1,5 +1,5 @@
 # Netflix data survery
-This is just for learning pandas library. I have imported **csv** file of __netflix__ stock. I have done simple analysis using resample method..
+This is just for learning creating branches and working with the braches exploring version control system. I have imported **csv** file of __netflix__ stock. I have done simple analysis using resample method..
 
 ## Tools used
 1. [pandas](https://pandas.pydata.org/)
